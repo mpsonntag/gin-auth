@@ -35,3 +35,8 @@ gin-auth*.log*
 
 # Vim swap files
 *.swp
+
+# VS code specifics
+*.code-workspace
+.vscode
+debug
